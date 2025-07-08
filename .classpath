@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/selenium-server-4.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/poi-bin-5.1.0/poi-bin-5.1.0/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/log4j-core-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kanch/Downloads/commons-compress-1.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
